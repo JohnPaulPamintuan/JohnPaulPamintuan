@@ -39,7 +39,7 @@
 
 
 
-[linkedin]: https://linkedin.com/in/johnpaulpamintuan
+[linkedin]: https://linkedin.com/in/johnpaulpamintuan/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
