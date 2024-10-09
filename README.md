@@ -1,4 +1,4 @@
-<h1>Hi, I'm John Paul Pamintuan!
+<h1>Hi, I'm John Paul Jimenez Pamintuan!
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
