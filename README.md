@@ -5,7 +5,7 @@
 - <b>Microsoft Windows Defender & Windows Firewall</b>
   - [Microsoft Windows Defender Antivirus and Firewall](https://github.com/JohnSpace2/Microsoft-Windows-Defender-Windows-Firewall/blob/main/README.md)
 - <b>Linux System Administration</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) 
+  - [The commands commonly used for navigating and filtering the File System](https://github.com/joshmadakor1/Algorithms-Practice) 
 - <b>Network traffic Analysis and using TCPdump and Wireshark</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)   
 - <b>Microsoft Active directory</b>
