@@ -7,15 +7,22 @@
 - <b>Linux System Administration</b>
   - [The commands commonly used for navigating and filtering the File System](https://github.com/JohnSpace2/Navigate-and-manage-the-file-system-using-Linux-commands-via-the-Bash-shell/blob/main/README.md) 
 - <b>Network traffic Analysis and using TCPdump and Wireshark</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)   
+  - [Utilized TCPdump to capture and analyse TCP traffics](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Utilized Wireshark to analyse HTTP/S and RDP traffic](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Microsoft Active directory</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Configuredgroups andperformedbasic administrative task with Microsoft Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Windows Event log analysis using Sysmon and Tracing for Windows (ETW)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Using Sysmon and Event logs to detect and analyse malicious activity on Windows Server
+including identifying DLL hijacking](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [Used Event logs for Windows (ETW) to identify unusual parent-child relationship
+and malicious.NET assembly loading](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [Utilized Get-Win Event cmdlet to analyse Windows Event Logs](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Splunk</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)      
+  - [Utilized data analysis software and visualization tools to interpret security events](https://github.com/joshmadakor1/Algorithms-Practice)      
 - <b>Python</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)   
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+    
 <h2>🏅 Certifications </h2>
 
 - [Google cybersecurity](https://www.youtube.com/watch?v=a83ASGn_V_s)
