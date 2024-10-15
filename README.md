@@ -10,17 +10,17 @@
   - [Utilized TCPdump to capture and analyse TCP traffics](https://github.com/JohnPaulPamintuan/TCPdump/blob/main/README.md)
   - [Utilized Wireshark to analyse HTTP/S and RDP traffic](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Microsoft Active directory</b>
-  - [Configuredgroups andperformedbasic administrative task with Microsoft Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Configuredgroups andperformedbasic administrative task with Microsoft Active Directory](1)
 - <b>Windows Event log analysis using Sysmon and Tracing for Windows (ETW)</b>
   - [Using Sysmon and Event logs to detect and analyse malicious activity on Windows Server
-including identifying DLL hijacking](https://github.com/joshmadakor1/Algorithms-Practice)
+including identifying DLL hijacking](1)
    - [Used Event logs for Windows (ETW) to identify unusual parent-child relationship
-and malicious.NET assembly loading](https://github.com/joshmadakor1/Algorithms-Practice)
-   - [Utilized Get-Win Event cmdlet to analyse Windows Event Logs](https://github.com/joshmadakor1/Algorithms-Practice)
+and malicious.NET assembly loading](1)
+   - [Utilized Get-Win Event cmdlet to analyse Windows Event Logs](1)
 - <b>Splunk</b>
-  - [Utilized data analysis software and visualization tools to interpret security events](https://github.com/joshmadakor1/Algorithms-Practice)      
+  - [Utilized data analysis software and visualization tools to interpret security events](1)      
 - <b>Python</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](1)
  
     
 <h2>🏅 Certifications </h2>
