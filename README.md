@@ -8,7 +8,7 @@
   - [The commands commonly used for navigating and filtering the File System](https://github.com/JohnSpace2/Navigate-and-manage-the-file-system-using-Linux-commands-via-the-Bash-shell/blob/main/README.md) 
 - <b>Network traffic Analysis and using TCPdump and Wireshark</b>
   - [Utilized TCPdump to capture and analyse TCP traffics](https://github.com/JohnPaulPamintuan/TCPdump/blob/main/README.md)
-  - [Utilized Wireshark to analyse HTTP/S and RDP traffic](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Utilized Wireshark to analyse HTTP/S and RDP traffic](1)
 - <b>Microsoft Active directory</b>
   - [Configuredgroups andperformedbasic administrative task with Microsoft Active Directory](1)
 - <b>Windows Event log analysis using Sysmon and Tracing for Windows (ETW)</b>
