@@ -11,6 +11,7 @@
   - [Utilized Wireshark to analyse HTTP/S and RDP traffic](https://github.com/JohnPaulPamintuan/Wireshark/blob/main/README.md)
 - <b>Microsoft Active directory</b>
   - [Configuredgroups andperformedbasic administrative task with Microsoft Active Directory](1)
+  - [Setting up Microsoft Active Directory with Virtual Machine](1)
 - <b>Windows Event log analysis using Sysmon and Tracing for Windows (ETW)</b>
   - [Using Sysmon and Event logs to detect and analyse malicious activity on Windows Server
 including identifying DLL hijacking](1)
