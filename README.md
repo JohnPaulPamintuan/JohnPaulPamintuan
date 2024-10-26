@@ -31,6 +31,8 @@ and malicious.NET assembly loading](1)
 - [Comptia Security +](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [IBM's Security Analyst Fundamentals](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Palo Alto Networks](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [NVIDIA: Introduction to Networking ](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Pyhton ](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 
 <h2> 🤳 Connect with me:</h2>
