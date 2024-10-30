@@ -14,7 +14,7 @@
   - [Configured groups and performed basic administrative task with Microsoft Active Directory](https://github.com/JohnPaulPamintuan/Active-Directory/blob/main/README.md)
 - <b>Windows Event log analysis using Sysmon and Tracing for Windows (ETW)</b>
   - [Using Sysmon and Event logs to detect and analyse malicious activity on Windows Server
-including identifying DLL hijacking](1)
+including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Windows-Event-log-analysis/blob/main/README.md)
    - [Used Event logs for Windows (ETW) to identify unusual parent-child relationship
 and malicious.NET assembly loading](1)
    - [Utilized Get-Win Event cmdlet to analyse Windows Event Logs](1)
