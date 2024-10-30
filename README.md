@@ -33,6 +33,7 @@ and malicious.NET assembly loading](1)
 - [Palo Alto Networks](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 - [NVIDIA: Introduction to Networking ](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 - [Pyhton ](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Web design ](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 
 <h2> 🤳 Connect with me:</h2>
