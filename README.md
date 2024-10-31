@@ -15,7 +15,7 @@
 - <b>Windows Event log analysis using Sysmon and Tracing for Windows (ETW)</b>
   - [Using Sysmon and Event logs to detect and analyse malicious activity on Windows Server
 including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Windows-Event-log-analysis/blob/main/README.md)
-   - [Introduction to ETW: Basics for Cybersecurity Detection](https://github.com/JohnPaulPamintuan/ETW/blob/main/README.md)
+   - [Introduction to ETW (Event Tracing for Windows): Basics for Cybersecurity Detection](https://github.com/JohnPaulPamintuan/ETW/blob/main/README.md)
    - [Utilized Get-Win Event cmdlet to analyse Windows Event Logs](1)
 - <b>Splunk</b>
   - [Utilized data analysis software and visualization tools to interpret security events](1)      
