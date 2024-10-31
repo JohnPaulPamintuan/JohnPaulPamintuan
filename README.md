@@ -11,7 +11,7 @@
   - [Utilized Wireshark to analyse HTTP/S and RDP traffic](https://github.com/JohnPaulPamintuan/Wireshark/blob/main/README.md)
 - <b>Microsoft Active directory</b>
   - [Setting up Microsoft Active Directory using Virtual Machine](https://github.com/JohnPaulPamintuan/Setting-up-Active-directory)
-  - [Configured groups and performed basic administrative task with Microsoft Active Directory: Resetting User's Passwords + Unlock](https://github.com/JohnPaulPamintuan/Active-Directory/blob/main/README.md)
+  - [Configured groups and performed basic administrative tasks with Microsoft Active Directory: Resetting User's Passwords + Unlock](https://github.com/JohnPaulPamintuan/Active-Directory/blob/main/README.md)
 - <b>Windows Event log analysis using Sysmon and Tracing for Windows (ETW)</b>
   - [Using Sysmon and Event logs to detect and analyse malicious activity on Windows Server
 including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Windows-Event-log-analysis/blob/main/README.md)
