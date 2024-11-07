@@ -28,7 +28,7 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
     
 <h2>🏅 Certifications </h2>
 
-- <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> 
+- [<img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />](https://github.com/JohnPaulPamintuan/Google-Cybersecurity/blob/main/README.md)
 - <img src="https://img.shields.io/badge/-Google%20Cloud%20Cybersecurity-4285F4?&style=for-the-badge&logo=GoogleCloud&logoColor=white" />
 - <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 - <img src="https://img.shields.io/badge/-IBM%27s%20Security%20Analyst%20Fundamentals-FFB300?&style=for-the-badge&logo=IBM&logoColor=white" />
