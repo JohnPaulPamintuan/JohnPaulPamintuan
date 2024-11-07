@@ -25,7 +25,7 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 - <b>Python</b>
   - [Praciting DS & Algos in Python](1)
 - Breach Response Case Studies:
-  - [Case Study: Spear Phising Attack](2)
+  - [Case Study: Spear Phising Attack](https://docs.google.com/spreadsheets/d/10tHD_umEhRkdMUrNJTL5qx34eL0_RdAdOhjxtx876Ms/edit?gid=0#gid=0)
  
     
 <h2>🏅 Certifications </h2>
