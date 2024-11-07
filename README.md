@@ -1,5 +1,6 @@
 <h1>Hi, I'm John Paul J. Pamintuan!</h1>
-Driven by a passion for improvement and professional growth, I am quick to adapt and eager to embrace new challenges. My current focus is on mastering Python to enhance my technical abilities further.
+Driven by a passion for improvement and professional growth, I am quick to adapt and eager to embrace new challenges. 
+My current focus is on mastering Python to enhance my technical abilities further.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
