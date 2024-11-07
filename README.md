@@ -45,8 +45,19 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🛠️ Skills and Tools:</h2>
 
+- Active Directory
+- Windows Defender
+- Security Monitoring
+- Incident Response
+- Patch Management
+- Security Documentation
+- Cybersecurity Awareness
+
+
+
+<h2> 🤳 Connect with me:</h2>
 - [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://linkedin.com/in/johnpaulpamintuan)
 
 
