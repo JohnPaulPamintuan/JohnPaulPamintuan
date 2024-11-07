@@ -25,7 +25,7 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 - <b>Python</b>
   - [Praciting DS & Algos in Python](1)
 - Breach Response Case Studies:
-  - [Case Study: Spear Phising Attack]([https://docs.google.com/spreadsheets/d/10tHD_umEhRkdMUrNJTL5qx34eL0_RdAdOhjxtx876Ms/edit?gid=0#gid=0](https://coursera-assessments.s3.amazonaws.com/assessments/1720428014790/2123721c-6fdb-4ede-a0c0-1bec21cd781d/Pros%20and%20cons%20-%20Sheet1.pdf))
+  - [Case Study: Spear Phising Attack](https://coursera-assessments.s3.amazonaws.com/assessments/1720428014790/2123721c-6fdb-4ede-a0c0-1bec21cd781d/Pros%20and%20cons%20-%20Sheet1.pdf))
  
     
 <h2>🏅 Certifications </h2>
