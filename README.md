@@ -24,6 +24,8 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
   - [Utilized data analysis software and visualization tools to interpret security events](1)      
 - <b>Python</b>
   - [Praciting DS & Algos in Python](1)
+- Breach Response Case Studies:
+  - [Case Study: Spear Phising Attack](2)
  
     
 <h2>🏅 Certifications </h2>
