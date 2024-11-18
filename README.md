@@ -58,6 +58,8 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 - Patch Management
 - Security Documentation
 - Cybersecurity Awareness
+- Siem Tools: Splunk and Security Onion
+- EDR Tools
 
 
 
@@ -69,10 +71,8 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 
 
 -------------------------------------------------
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on my career
+- 🌱 I’m currently learning Python 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
