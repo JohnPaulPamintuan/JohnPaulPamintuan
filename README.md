@@ -24,7 +24,7 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 - <b>Creating a Cybersecurity Home Lab:</b>
   - [Cybersecurity Home Lab: Building, Attacking, and Defending Virtual Environments](https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-)
 
-- <b>Siem tools for Cyber security</b>
+- <b>Siem tools for Cybersecurity</b>
   - [Utilized data analysis software and visualization tools to interpret security events](https://github.com/JohnPaulPamintuan/SIEM-security-Tools)
 - <b>Python</b>
   - [Praciting DS & Algos in Python](1)
