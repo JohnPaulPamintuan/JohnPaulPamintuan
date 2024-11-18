@@ -22,7 +22,7 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
    - [Skills Assessment - Windows Event Logs & Finding Evil - HackTheBox](https://github.com/JohnPaulPamintuan/Skills-Assessment---Windows-Event-Logs-Finding-Evil---HackTheBox./blob/main/README.md)
 
 - <b>Cybersecurity Home Lab:</b>
-  - [Creating a basic home lab using virtual machines and configuring the systems]
+  - [Creating a basic home lab using virtual machines and configuring the systems](https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-)
 
 - <b>Splunk</b>
   - [Utilized data analysis software and visualization tools to interpret security events](1)      
