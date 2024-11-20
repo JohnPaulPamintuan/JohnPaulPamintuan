@@ -47,18 +47,18 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 <h1> 🛠️ Skills and Tools:</h1>
 
 ## Skills
-- <b>Windows Defender</b>: Skilled in implementing Windows security measures, including antivirus management, firewall rule optimization, and proactive threat mitigation strategies to protect against malware and unauthorized access.
-- <b>Active Directory Management</b>: Demonstrated expertise in setting up, configuring, and managing Active Directory environments, including user and group management, organizational unit structuring, and access control.
-- <b>Security Monitoring</b>: Proficient in using Splunk, Sysmon, TCPdump, and Wireshark for network traffic analysis, centralized log management, and telemetry data visualization to detect and analyze potential security threats.</b>
-- <b>Network Traffic Analysis</b>: Skilled in capturing, filtering, and interpreting packet data using TCPdump and Wireshark to identify anomalies and optimize security configurations.
-- <b>Linux File System Management</b>: Proficient in navigating and managing Linux file systems using Bash commands, including directory traversal, file creation, permissions management, and process control.
-- <b>Windows Event Log Analysis for Incident Detection</b>: Experienced in leveraging Windows Event Logs and Event Tracing for Windows (ETW) for security monitoring, incident detection, and troubleshooting. Proficient in using Get-WinEvent and related tools for parsing and filtering logs to detect suspicious activities and security threats.
-- <b>Virtualization</b>: Configuring virtualized environments with VirtualBox for secure testing
-- <b>Malware Analysis</b>: Safely executing and analyzing malware in isolated virtual machines
-- <b>Network Security</b>: Implementing secure VM network configurations (NAT, Internal Network)
-- <b>Offensive Security</b>: Conducting reconnaissance with Nmap and crafting payloads using msfvenom
-- <b>Incident Monitoring</b>: Configuring Sysmon for detailed telemetry and analyzing logs with Splunk
-- <b>Home Lab Design</b>: Establishing sandboxed environments for cybersecurity research
+- <b><ins>Windows Defender</b></ins>: Skilled in implementing Windows security measures, including antivirus management, firewall rule optimization, and proactive threat mitigation strategies to protect against malware and unauthorized access.
+- <b><ins>Active Directory Management</b></ins>: Demonstrated expertise in setting up, configuring, and managing Active Directory environments, including user and group management, organizational unit structuring, and access control.
+- <b><ins>Security Monitoring</b></ins>: Proficient in using Splunk, Sysmon, TCPdump, and Wireshark for network traffic analysis, centralized log management, and telemetry data visualization to detect and analyze potential security threats.
+- <b><ins>Network Traffic Analysis</b></ins>: Skilled in capturing, filtering, and interpreting packet data using TCPdump and Wireshark to identify anomalies and optimize security configurations.
+- <b><ins>Linux File System Management</b></ins>: Proficient in navigating and managing Linux file systems using Bash commands, including directory traversal, file creation, permissions management, and process control.
+- <b><ins>Windows Event Log Analysis for Incident Detection</b></ins>: Experienced in leveraging Windows Event Logs and Event Tracing for Windows (ETW) for security monitoring, incident detection, and troubleshooting. Proficient in using Get-WinEvent and related tools for parsing and filtering logs to detect suspicious activities and security threats.
+- <b><ins>Virtualization</b></ins>: Configuring virtualized environments with VirtualBox for secure testing
+- <b><ins>Malware Analysis</b></ins>: Safely executing and analyzing malware in isolated virtual machines
+- <b><ins>Network Security</b></ins>: Implementing secure VM network configurations (NAT, Internal Network)
+- <b><ins>Offensive Security</b></ins>: Conducting reconnaissance with Nmap and crafting payloads using msfvenom
+- <b><ins>Incident Monitoring</b></ins>: Configuring Sysmon for detailed telemetry and analyzing logs with Splunk
+- <b><ins>Home Lab Design</b></ins>: Establishing sandboxed environments for cybersecurity research
 
 ## Tools
 - <b><ins>Network Security Tools:</b></ins>
