@@ -46,21 +46,21 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 
 <h2> 🛠️ Skills and Tools:</h2>
 
-- Active Directory
-- Windows Defender
-- Security Monitoring
-- Incident Response
-- Patch Management
-- Security Documentation
-- Cybersecurity Awareness
-- Siem Tools: Splunk
-- EDR Tools: Windows Defender
-- Virtualization: Configuring virtualized environments with VirtualBox for secure testing
-- Malware Analysis: Safely executing and analyzing malware in isolated virtual machines
-- Network Security: Implementing secure VM network configurations (NAT, Internal Network)
-- Offensive Security: Conducting reconnaissance with Nmap and crafting payloads using msfvenom
-- Incident Monitoring: Configuring Sysmon for detailed telemetry and analyzing logs with Splunk
-- Home Lab Design: Establishing sandboxed environments for cybersecurity research
+- <b>Active Directory</b>
+- <b>Windows Defender</b>: Skilled in implementing Windows security measures, including antivirus management, firewall rule optimization, and proactive threat mitigation strategies to protect against malware and unauthorized access.
+- <b>Security Monitoring</b>
+- <b>Incident Response</b>
+- <b>Patch Management</b>
+- <b>Security Documentation</b>
+- <b>Cybersecurity Awareness</b>
+- <b>Siem Tools: Splunk</b>
+- <b>EDR Tools</b>: Windows Defender
+- <b>Virtualization</b>: Configuring virtualized environments with VirtualBox for secure testing
+- <b>Malware Analysis</b>: Safely executing and analyzing malware in isolated virtual machines
+- <b>Network Security</b>: Implementing secure VM network configurations (NAT, Internal Network)
+- <b>Offensive Security</b>: Conducting reconnaissance with Nmap and crafting payloads using msfvenom
+- <b>Incident Monitoring</b>: Configuring Sysmon for detailed telemetry and analyzing logs with Splunk
+- <b>Home Lab Design</b>: Establishing sandboxed environments for cybersecurity research
 
 
 
