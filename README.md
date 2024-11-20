@@ -54,7 +54,13 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 - Security Documentation
 - Cybersecurity Awareness
 - Siem Tools: Splunk
-- EDR Tools: Windows Defender 
+- EDR Tools: Windows Defender
+- Virtualization: Configuring virtualized environments with VirtualBox for secure testing
+- Malware Analysis: Safely executing and analyzing malware in isolated virtual machines
+- Network Security: Implementing secure VM network configurations (NAT, Internal Network)
+- Offensive Security: Conducting reconnaissance with Nmap and crafting payloads using msfvenom
+- Incident Monitoring: Configuring Sysmon for detailed telemetry and analyzing logs with Splunk
+- Home Lab Design: Establishing sandboxed environments for cybersecurity research
 
 
 
