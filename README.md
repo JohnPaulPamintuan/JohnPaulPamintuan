@@ -11,7 +11,7 @@ My current focus is on mastering Python to enhance my technical abilities furthe
 - <b>Network traffic Analysis and using TCPdump and Wireshark:</b>
   - [Utilized TCPdump to capture and analyse TCP traffics](https://github.com/JohnPaulPamintuan/TCPdump/blob/main/README.md)
   - [Utilized Wireshark to analyse HTTP/S and RDP traffic](https://github.com/JohnPaulPamintuan/Wireshark/blob/main/README.md)
-- <b>Microsoft Active directory</b>
+- <b>Microsoft Active directory:</b>
   - [Setting up Microsoft Active Directory using Virtual Machine](https://github.com/JohnPaulPamintuan/Setting-up-Active-directory)
   - [Configured groups and performed basic administrative tasks with Microsoft Active Directory: Resetting User's Passwords + Unlock](https://github.com/JohnPaulPamintuan/Active-Directory/blob/main/README.md)
 - <b>Windows Event log analysis using Sysmon, racing for Windows (ETW) and utilized Get-WinEvent cmdlet:</b>
