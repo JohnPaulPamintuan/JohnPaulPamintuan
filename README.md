@@ -25,7 +25,7 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
   - [Cybersecurity Home Lab: Building, Attacking, and Defending Virtual Environments](https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-)
 
 - <b>Siem tool for Cybersecurity:</b>
-  - [Splunk: Utilized data analysis software and visualization tools to interpret security events](https://github.com/JohnPaulPamintuan/SIEM-Tool---SPLUNK))
+  - [Splunk: Utilized data analysis software and visualization tools to interpret security events](https://github.com/JohnPaulPamintuan/SIEM-Tool---SPLUNK)
 - <b>Python:</b>
   - [Praciting DS & Algos in Python](1)
 - <b>Breach Response Case Studies:</b>
@@ -49,8 +49,9 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 - <b>Active Directory</b>
 - <b>Windows Defender</b>: Skilled in implementing Windows security measures, including antivirus management, firewall rule optimization, and proactive threat mitigation strategies to protect against malware and unauthorized access.
 - <b>Security Monitoring</b>: Proficient in using Splunk, Sysmon, TCPdump, and Wireshark for network traffic analysis, centralized log management, and telemetry data visualization to detect and analyze potential security threats.</b>
-- <b>Incident Response</b>:
 - <b>Network Traffic Analysis</b>: Skilled in capturing, filtering, and interpreting packet data using TCPdump and Wireshark to identify anomalies and optimize security configurations.
+- <b>Windows Event Log Analysis for Incident Detection</b>: Experienced in leveraging Windows Event Logs and Event Tracing for Windows (ETW) for security monitoring, incident detection, and troubleshooting. Proficient in using Get-WinEvent and related tools for parsing and filtering logs to detect suspicious activities and security threats.
+
 - <b>Patch Management</b>
 - <b>Security Documentation</b>
 - <b>Cybersecurity Awareness</b>
