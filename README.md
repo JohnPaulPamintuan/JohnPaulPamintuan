@@ -104,16 +104,14 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 
 <h2> 🤳 Connect with me:</h2>
 
-- [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://linkedin.com/in/johnpaulpamintuan)
+ [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://linkedin.com/in/johnpaulpamintuan)
 
 
 
 
 -------------------------------------------------
-- 🔭 I’m currently working on my career
-- 🌱 I’m currently learning Python 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working: I’m currently advancing my cybersecurity skills through hands-on projects and real-world applications. I focus on network analysis, Windows event monitoring, and security automation.
+- 🌱 I’m currently learning: Deepening my Python skills for automating security tasks and developing custom tools.
+- ⚡ Fun fact: I’m passionate about solving complex cybersecurity challenges and constantly learning new techniques to stay ahead of evolving threats.
+- 📫 How to reach me: You can reach me via GitHub issues or visit my website at [your website link].
 
