@@ -42,12 +42,7 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 - <img src="https://img.shields.io/badge/-NVIDIA%3A%20Introduction%20to%20Networking-76B900?&style=for-the-badge&logo=NVIDIA&logoColor=white" />
 - <img src="https://img.shields.io/badge/-ISC2%3A%20Certified%20in%20Cybersecurity-9B59B6?&style=for-the-badge&logo=ISC2&logoColor=white" />
 - <img src="https://img.shields.io/badge/-Pact%3A%20Web%20Design%20using%20ChatGPT-00ADEF?&style=for-the-badge&logo=OpenAI&logoColor=white" />
-
-
-
-- [Pyhton ](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
-
+- <img src="https://img.shields.io/badge/-InfoSec%20Python%20Certification-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 <h2> 🛠️ Skills and Tools:</h2>
 
@@ -58,8 +53,8 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 - Patch Management
 - Security Documentation
 - Cybersecurity Awareness
-- Siem Tools: Splunk and Security Onion
-- EDR Tools
+- Siem Tools: Splunk
+- EDR Tools: Windows Defender 
 
 
 
