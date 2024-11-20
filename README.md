@@ -62,7 +62,7 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 
 ## Tools
 - <b><ins>Network Security Tools:</b></ins>
-  - <b>TCPdump/<b>: Used for capturing and analyzing network traffic, identifying anomalies and potential threats.
+  - <b>TCPdump</b>: Used for capturing and analyzing network traffic, identifying anomalies and potential threats.
   - <b>Wireshark</b>: Used for network protocol analysis, capturing and inspecting data packets to detect security vulnerabilities or malicious activity.
   - <b>Nmap</b>: A network scanning tool used for discovering hosts, open ports, and services on a network.
   - <b>VirtualBox/VMware</b>: Used for creating isolated environments (virtual machines) that can be configured for secure network testing, simulating network traffic, and conducting penetration testing activities.
@@ -79,18 +79,18 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
   - <b>Splunk</b>: A SIEM (Security Information and Event Management) platform used to ingest, analyze, and visualize telemetry and logs from Sysmon and other sources for incident detection.
  
 - <b><ins>Scripting and Automation Tools</b></ins>
-  - <b>PowerShell</b>:— is a scripting environment used to automate system administration and security tasks, especially in Windows environments. It's used for parsing logs, automating incident responses, and configuring security settings.
+  - <b>PowerShell</b> — is a scripting environment used to automate system administration and security tasks, especially in Windows environments. It's used for parsing logs, automating incident responses, and configuring security settings.
   - <b>Python</b>:
 
 
 - <b><ins>Offensive Security Tools</b></ins> 
-  - <b>Metasploit</b>: — is an advanced framework used for penetration testing. It enables security professionals to simulate attacks on systems, find vulnerabilities, and test defenses. It includes tools like msfvenom for creating malicious payloads, critical in offensive security tasks.
+  - <b>Metasploit</b> — is an advanced framework used for penetration testing. It enables security professionals to simulate attacks on systems, find vulnerabilities, and test defenses. It includes tools like msfvenom for creating malicious payloads, critical in offensive security tasks.
 
 - <b><ins>Penetration Testing Operating Systems</b></ins>
   - <b>Kali Linux</b>: A specialized Linux distribution with pre-installed security tools for penetration testing. It allows cybersecurity professionals to run security assessments on networks and systems, using tools for scanning, exploitation, and vulnerability analysis.
 
 - <b><ins>System Administration and Configuration Tools</b></ins>
-  - <b>Group Policy Management</b>: — is an administrative tool used for enforcing security policies across Windows systems in an enterprise environment, crucial for ensuring proper configuration and access control.
+  - <b>Group Policy Management</b> — is an administrative tool used for enforcing security policies across Windows systems in an enterprise environment, crucial for ensuring proper configuration and access control.
 
 - <b><ins>Directory Services and Access Control Tools</b></ins>
   - <b>Active Directory Users and Computers</b>: A tool to manage user accounts, groups, and permissions within an Active Directory environment, essential for controlling access to network resources and enforcing security policies.
