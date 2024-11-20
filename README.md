@@ -46,6 +46,28 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 
 <h1> 🛠️ Skills and Tools:</h1>
 
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Windows Defender -- Skilled in implementing Windows security measures, including antivirus management, firewall rule optimization, and proactive threat mitigation strategies          | <a href="https://google.com">Detection Lab</a>|
+| Active Directory Management: Demonstrated expertise in setting up, configuring, and managing Active Directory environments, including user and group management, organizational unit structuring, and access control. | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+
+
 ## Skills
 - <b><ins>Windows Defender</b></ins>: Skilled in implementing Windows security measures, including antivirus management, firewall rule optimization, and proactive threat mitigation strategies to protect against malware and unauthorized access.
 - <b><ins>Active Directory Management</b></ins>: Demonstrated expertise in setting up, configuring, and managing Active Directory environments, including user and group management, organizational unit structuring, and access control.
