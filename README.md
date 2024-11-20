@@ -44,19 +44,15 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 - <img src="https://img.shields.io/badge/-Pact%3A%20Web%20Design%20using%20ChatGPT-00ADEF?&style=for-the-badge&logo=OpenAI&logoColor=white" />
 - <img src="https://img.shields.io/badge/-InfoSec%20Python%20Certification-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-<h2> 🛠️ Skills and Tools:</h2>
+<h1> 🛠️ Skills and Tools:</h1>
 
-- <b>Active Directory</b>
+## Skills
 - <b>Windows Defender</b>: Skilled in implementing Windows security measures, including antivirus management, firewall rule optimization, and proactive threat mitigation strategies to protect against malware and unauthorized access.
+- <b>Active Directory Management</b>: Demonstrated expertise in setting up, configuring, and managing Active Directory environments, including user and group management, organizational unit structuring, and access control.
 - <b>Security Monitoring</b>: Proficient in using Splunk, Sysmon, TCPdump, and Wireshark for network traffic analysis, centralized log management, and telemetry data visualization to detect and analyze potential security threats.</b>
 - <b>Network Traffic Analysis</b>: Skilled in capturing, filtering, and interpreting packet data using TCPdump and Wireshark to identify anomalies and optimize security configurations.
+- <b>Linux File System Management</b>: Proficient in navigating and managing Linux file systems using Bash commands, including directory traversal, file creation, permissions management, and process control.
 - <b>Windows Event Log Analysis for Incident Detection</b>: Experienced in leveraging Windows Event Logs and Event Tracing for Windows (ETW) for security monitoring, incident detection, and troubleshooting. Proficient in using Get-WinEvent and related tools for parsing and filtering logs to detect suspicious activities and security threats.
-
-- <b>Patch Management</b>
-- <b>Security Documentation</b>
-- <b>Cybersecurity Awareness</b>
-- <b>Siem Tools: Splunk</b>
-- <b>EDR Tools</b>: Windows Defender
 - <b>Virtualization</b>: Configuring virtualized environments with VirtualBox for secure testing
 - <b>Malware Analysis</b>: Safely executing and analyzing malware in isolated virtual machines
 - <b>Network Security</b>: Implementing secure VM network configurations (NAT, Internal Network)
@@ -64,6 +60,40 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 - <b>Incident Monitoring</b>: Configuring Sysmon for detailed telemetry and analyzing logs with Splunk
 - <b>Home Lab Design</b>: Establishing sandboxed environments for cybersecurity research
 
+## Tools
+- <b><ins>Network Security Tools:</b></ins>
+  - <b>TCPdump/<b>: Used for capturing and analyzing network traffic, identifying anomalies and potential threats.
+  - <b>Wireshark</b>: Used for network protocol analysis, capturing and inspecting data packets to detect security vulnerabilities or malicious activity.
+  - <b>Nmap</b>: A network scanning tool used for discovering hosts, open ports, and services on a network.
+  - <b>VirtualBox/VMware</b>: Used for creating isolated environments (virtual machines) that can be configured for secure network testing, simulating network traffic, and conducting penetration testing activities.
+  - <b>NAT, Internal Network, Host-Only Network (in VirtualBox/VMware)</b>: Configured to test and isolate network environments, especially for secure malware analysis.
+
+- <b><ins>Endpoint Security Tools:</b></ins>
+  - <b>Windows Defender</b>: Used for antivirus management and protecting Windows systems from malware and unauthorized access.
+  - <b>Sysmon</b>: Used to monitor and log system activity on Windows endpoints, providing detailed information about security events.
+  - <b>Get-WinEvent</b>: A PowerShell tool used to retrieve event logs from Windows machines, helpful in detecting suspicious activities and threats.
+  - <b>Event Viewer</b>: Used for viewing detailed logs in Windows and conducting basic analysis of system events and security incidents.
+
+
+- <b><ins>SIEM Tools:</b></ins>
+  - <b>Splunk</b>: A SIEM (Security Information and Event Management) platform used to ingest, analyze, and visualize telemetry and logs from Sysmon and other sources for incident detection.
+ 
+- <b><ins>Scripting and Automation Tools</b></ins>
+  - <b>PowerShell</b>:— is a scripting environment used to automate system administration and security tasks, especially in Windows environments. It's used for parsing logs, automating incident responses, and configuring security settings.
+  - <b>Python</b>:
+
+
+- <b><ins>Offensive Security Tools</b></ins> 
+  - <b>Metasploit</b>: — is an advanced framework used for penetration testing. It enables security professionals to simulate attacks on systems, find vulnerabilities, and test defenses. It includes tools like msfvenom for creating malicious payloads, critical in offensive security tasks.
+
+- <b><ins>Penetration Testing Operating Systems</b></ins>
+  - <b>Kali Linux</b>: A specialized Linux distribution with pre-installed security tools for penetration testing. It allows cybersecurity professionals to run security assessments on networks and systems, using tools for scanning, exploitation, and vulnerability analysis.
+
+- <b><ins>System Administration and Configuration Tools</b></ins>
+  - <b>Group Policy Management</b>: — is an administrative tool used for enforcing security policies across Windows systems in an enterprise environment, crucial for ensuring proper configuration and access control.
+
+- <b><ins>Directory Services and Access Control Tools</b></ins>
+  - <b>Active Directory Users and Computers</b>: A tool to manage user accounts, groups, and permissions within an Active Directory environment, essential for controlling access to network resources and enforcing security policies.
 
 
 <h2> 🤳 Connect with me:</h2>
