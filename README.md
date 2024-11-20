@@ -58,6 +58,7 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 - <b><ins>Network Security</b></ins>: Implementing secure VM network configurations (NAT, Internal Network)
 - <b><ins>Offensive Security</b></ins>: Conducting reconnaissance with Nmap and crafting payloads using msfvenom
 - <b><ins>Incident Monitoring</b></ins>: Configuring Sysmon for detailed telemetry and analyzing logs with Splunk
+-  <b><ins>Pyhton Skills</b></ins>:
 - <b><ins>Home Lab Design</b></ins>: Establishing sandboxed environments for cybersecurity research
 
 ## Tools
@@ -80,7 +81,12 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
  
 - <b><ins>Scripting and Automation Tools</b></ins>
   - <b>PowerShell</b> — is a scripting environment used to automate system administration and security tasks, especially in Windows environments. It's used for parsing logs, automating incident responses, and configuring security settings.
-  - <b>Python</b>:
+  - <b>Python</b>: A versatile programming language widely used for automation, scripting, network analysis, and security tool development.
+  - Python is integral for tasks like:
+    - Writing custom scripts for automating security tasks.
+    - Integrating with APIs for tools like Splunk or Windows Event Logs.
+    - Building simple intrusion detection systems or parsing and analyzing logs.
+    - Working with libraries such as Scapy (for network analysis), PyShark (for Wireshark packet parsing), and Requests (for interacting with web APIs).
 
 
 - <b><ins>Offensive Security Tools</b></ins> 
