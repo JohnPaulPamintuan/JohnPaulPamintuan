@@ -46,15 +46,15 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 
 <h1> 🛠️ Skills and Tools:</h1>
 
-
-| Skill                                         | Associated Project         |
+## Skills
+| Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| <b><ins>Windows Defender</b></ins>: Skilled in implementing Windows security measures, including antivirus management, firewall rule optimization, and proactive threat mitigation strategies          | <a href="https://github.com/JohnPaulPamintuan/Microsoft-Windows-Defender-Windows-Firewall/blob/main/README.md">Detection Lab</a>|
+| <b><ins>Windows Defender</b></ins>: Skilled in implementing Windows security measures, including antivirus management, firewall rule optimization, and proactive threat mitigation strategies          | <a href="https://github.com/JohnPaulPamintuan/Microsoft-Windows-Defender-Windows-Firewall/blob/main/README.md">Microsoft Defender</a>|
 | <b><ins>Active Directory Management</b></ins>: Demonstrated expertise in setting up, configuring, and managing Active Directory environments, including user and group management, organizational unit structuring, and access control. | <a href="https://github.com/JohnPaulPamintuan/Active-Directory/blob/main/README.md">Active Directory Lab</a>|
-| <b><ins>Security Monitoring</b></ins>: Proficient in using Splunk, Sysmon, TCPdump, and Wireshark for network traffic analysis, centralized log management, and telemetry data visualization to detect and analyze potential security threats.         | <a href="https://github.com/JohnPaulPamintuan/TCPdump/blob/main/README.md">Detection lab.</a>|
-|  <b><ins>Network Traffic Analysis</b></ins>: Skilled in capturing, filtering, and interpreting packet data using TCPdump and Wireshark to identify anomalies and optimize security configurations.      | <a href="https://github.com/JohnPaulPamintuan/Wireshark/blob/main/README.md">Detection lab.</a>|
-| <b><ins>Linux File System Management</b></ins>: Proficient in navigating and managing Linux file systems using Bash commands, including directory traversal, file creation, permissions management, and process control.                  | <a href="https://github.com/JohnPaulPamintuan/Navigate-and-manage-the-file-system-using-Linux-commands-via-the-Bash-shell/blob/main/README.md">Linux System Administration.</a>|
-| <b><ins>Windows Event Log Analysis for Incident Detection</b></ins>: Experienced in leveraging Windows Event Logs and Event Tracing for Windows (ETW) for security monitoring, incident detection, and troubleshooting. Proficient in using Get-WinEvent and related tools for parsing and filtering logs to detect suspicious activities and security threats. | <a href="https://github.com/JohnPaulPamintuan/Skills-Assessment---Windows-Event-Logs-Finding-Evil---HackTheBox./blob/main/README.md">Windows Event Logs & Finding Evil - HackTheBox.</a>|
+| <b><ins>Security Monitoring</b></ins>: Proficient in using Splunk, Sysmon, TCPdump, and Wireshark for network traffic analysis, centralized log management, and telemetry data visualization to detect and analyze potential security threats.         | <a href="https://github.com/JohnPaulPamintuan/TCPdump/blob/main/README.md">Detection lab</a>|
+|  <b><ins>Network Traffic Analysis</b></ins>: Skilled in capturing, filtering, and interpreting packet data using TCPdump and Wireshark to identify anomalies and optimize security configurations.      | <a href="https://github.com/JohnPaulPamintuan/Wireshark/blob/main/README.md">Detection lab<a>|
+| <b><ins>Linux File System Management</b></ins>: Proficient in navigating and managing Linux file systems using Bash commands, including directory traversal, file creation, permissions management, and process control.                  | <a href="https://github.com/JohnPaulPamintuan/Navigate-and-manage-the-file-system-using-Linux-commands-via-the-Bash-shell/blob/main/README.md">Linux System Administration</a>|
+| <b><ins>Windows Event Log Analysis for Incident Detection</b></ins>: Experienced in leveraging Windows Event Logs and Event Tracing for Windows (ETW) for security monitoring, incident detection, and troubleshooting. Proficient in using Get-WinEvent and related tools for parsing and filtering logs to detect suspicious activities and security threats. | <a href="https://github.com/JohnPaulPamintuan/Skills-Assessment---Windows-Event-Logs-Finding-Evil---HackTheBox./blob/main/README.md">Windows Event Logs & Finding Evil - HackTheBox</a>|
 | <b><ins>Virtualization</b></ins>: Configuring virtualized environments with VirtualBox for secure testing. | <a href="https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-">Home Lab</a>|
 | <b><ins>Malware Analysis</b></ins>: Safely executing and analyzing malware in isolated virtual machines. | <a href="https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-">Home Lab</a>|
 | <b><ins>Network Security</b></ins>: Implementing secure VM network configurations (NAT, Internal Network). | <a href="https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-">Home Lab</a>|
@@ -62,31 +62,6 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 | <b><ins>Incident Monitoring</b></ins>: Configuring Sysmon for detailed telemetry and analyzing logs with Splunk. | <a href="https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-">Home Lab</a>|
 | <b><ins>Pyhton Skills</b></ins>: | <a href="https://google.com"> Automation Lab</a>|
 | <b><ins>Home Lab Design</b></ins>: Establishing sandboxed environments for cybersecurity research. | <a href="https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-">Home Lab</a>|
-
-
-
-
-## Skills
-- <b><ins>Windows Defender</b></ins>: Skilled in implementing Windows security measures, including antivirus management, firewall rule optimization, and proactive threat mitigation strategies to protect against malware and unauthorized access.
-- <b><ins>Active Directory Management</b></ins>: Demonstrated expertise in setting up, configuring, and managing Active Directory environments, including user and group management, organizational unit structuring, and access control.
-- <b><ins>Security Monitoring</b></ins>: Proficient in using Splunk, Sysmon, TCPdump, and Wireshark for network traffic analysis, centralized log management, and telemetry data visualization to detect and analyze potential security threats.
-- 
-- <b><ins>Network Traffic Analysis</b></ins>: Skilled in capturing, filtering, and interpreting packet data using TCPdump and Wireshark to identify anomalies and optimize security configurations.
-- 
-- <b><ins>Linux File System Management</b></ins>: Proficient in navigating and managing Linux file systems using Bash commands, including directory traversal, file creation, permissions management, and process control.
-- 
-- <b><ins>Windows Event Log Analysis for Incident Detection</b></ins>: Experienced in leveraging Windows Event Logs and Event Tracing for Windows (ETW) for security monitoring, incident detection, and troubleshooting. Proficient in using Get-WinEvent and related tools for parsing and filtering logs to detect suspicious activities and security threats.
-- 
-- <b><ins>Virtualization</b></ins>: Configuring virtualized environments with VirtualBox for secure testing
-- 
-- <b><ins>Malware Analysis</b></ins>: Safely executing and analyzing malware in isolated virtual machines
-- 
-- <b><ins>Network Security</b></ins>: Implementing secure VM network configurations (NAT, Internal Network).
-- 
-- <b><ins>Offensive Security</b></ins>: Conducting reconnaissance with Nmap and crafting payloads using msfvenom.
-- <b><ins>Incident Monitoring</b></ins>: Configuring Sysmon for detailed telemetry and analyzing logs with Splunk.
--  <b><ins>Pyhton Skills</b></ins>:
-- <b><ins>Home Lab Design</b></ins>: Establishing sandboxed environments for cybersecurity research.
 
 ## Tools
 - <b><ins>Network Security Tools:</b></ins>
@@ -115,7 +90,6 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
     - Building simple intrusion detection systems or parsing and analyzing logs.
     - Working with libraries such as Scapy (for network analysis), PyShark (for Wireshark packet parsing), and Requests (for interacting with web APIs).
 
-
 - <b><ins>Offensive Security Tools</b></ins> 
   - <b>Metasploit</b> — is an advanced framework used for penetration testing. It enables security professionals to simulate attacks on systems, find vulnerabilities, and test defenses. It includes tools like msfvenom for creating malicious payloads, critical in offensive security tasks.
 
@@ -132,8 +106,8 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 <h2> 🤳 Connect with me:</h2>
 
  [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://linkedin.com/in/johnpaulpamintuan)
-<img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
-<img src="https://img.shields.io/badge/-Website-000000?&style=for-the-badge&logo=webflow&logoColor=white">
+[<img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white">](emailto:johnpauljpamintuan@gmail.com)
+[<img src="https://img.shields.io/badge/-Website-000000?&style=for-the-badge&logo=webflow&logoColor=white">](https://www.google.com/)
 
 
 -------------------------------------------------
