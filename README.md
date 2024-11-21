@@ -74,51 +74,6 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 | Penetration Testing Operating Systems | <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali&logoColor=white"/>|
 | Directory Services and Access Control Tools | <img src="https://img.shields.io/badge/-Active%20Directory%20Users%20and%20Computers-0078D4?&style=for-the-badge&logo=Windows&logoColor=white"/>|
 
-
-
-
-
-## Tools
-- <b><ins>Network Security Tools:</b></ins>
-  - <b>TCPdump</b>: Used for capturing and analyzing network traffic, identifying anomalies and potential threats.
-  - <b>Wireshark</b>: Used for network protocol analysis, capturing and inspecting data packets to detect security vulnerabilities or malicious activity.
-  - <b>Nmap</b>: A network scanning tool used for discovering hosts, open ports, and services on a network.
-  - <b>VirtualBox/VMware</b>: Used for creating isolated environments (virtual machines) that can be configured for secure network testing, simulating network traffic, and conducting penetration testing activities.
-  - <b>NAT, Internal Network, Host-Only Network (in VirtualBox/VMware)</b>: Configured to test and isolate network environments, especially for secure malware analysis.
-
-- <b><ins>Endpoint Security Tools:</b></ins>
-  - <b>Windows Defender</b>: Used for antivirus management and protecting Windows systems from malware and unauthorized access.
-  - <b>Sysmon</b>: Used to monitor and log system activity on Windows endpoints, providing detailed information about security events.
-  - <b>Get-WinEvent</b>: A PowerShell tool used to retrieve event logs from Windows machines, helpful in detecting suspicious activities and threats.
-  - <b>Event Viewer</b>: Used for viewing detailed logs in Windows and conducting basic analysis of system events and security incidents.
-
-
-- <b><ins>SIEM Tools:</b></ins>
-  - <b>Splunk</b>: A SIEM (Security Information and Event Management) platform used to ingest, analyze, and visualize telemetry and logs from Sysmon and other sources for incident detection.
- 
-- <b><ins>Scripting and Automation Tools</b></ins>
-  - <b>PowerShell</b> — is a scripting environment used to automate system administration and security tasks, especially in Windows environments. It's used for parsing logs, automating incident responses, and configuring security settings.
-  - <b>Python</b>: A versatile programming language widely used for automation, scripting, network analysis, and security tool development.
-  - Python is integral for tasks like:
-    - Writing custom scripts for automating security tasks.
-    - Integrating with APIs for tools like Splunk or Windows Event Logs.
-    - Building simple intrusion detection systems or parsing and analyzing logs.
-    - Working with libraries such as Scapy (for network analysis), PyShark (for Wireshark packet parsing), and Requests (for interacting with web APIs).
-
-- <b><ins>Offensive Security Tools</b></ins> 
-  - <b>Metasploit</b> — is an advanced framework used for penetration testing. It enables security professionals to simulate attacks on systems, find vulnerabilities, and test defenses. It includes tools like msfvenom for creating malicious payloads, critical in offensive security tasks.
-
-- <b><ins>Penetration Testing Operating Systems</b></ins>
-  - <b>Kali Linux</b>: A specialized Linux distribution with pre-installed security tools for penetration testing. It allows cybersecurity professionals to run security assessments on networks and systems, using tools for scanning, exploitation, and vulnerability analysis.
-
-- <b><ins>System Administration and Configuration Tools</b></ins>
-  - <b>Group Policy Management</b> — is an administrative tool used for enforcing security policies across Windows systems in an enterprise environment, crucial for ensuring proper configuration and access control.
-
-- <b><ins>Directory Services and Access Control Tools</b></ins>
-  - <b>Active Directory Users and Computers</b>: A tool to manage user accounts, groups, and permissions within an Active Directory environment, essential for controlling access to network resources and enforcing security policies.
-
-
-
 <h2> 🤳 Connect with me:</h2>
 
  [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://linkedin.com/in/johnpaulpamintuan)
