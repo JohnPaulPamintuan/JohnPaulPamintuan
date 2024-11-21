@@ -46,7 +46,6 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 
 <h1> 🛠️ Skills and Tools:</h1>
 
-## Skills
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | <b><ins>Windows Defender</b></ins>: Skilled in implementing Windows security measures, including antivirus management, firewall rule optimization, and proactive threat mitigation strategies          | <a href="https://github.com/JohnPaulPamintuan/Microsoft-Windows-Defender-Windows-Firewall/blob/main/README.md">Windows Security</a>|
@@ -62,6 +61,23 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 | <b><ins>Incident Monitoring</b></ins>: Configuring Sysmon for detailed telemetry and analyzing logs with Splunk. | <a href="https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-">Home Lab</a>|
 | <b><ins>Pyhton Skills</b></ins>: | <a href="https://google.com"> Automation Lab</a>|
 | <b><ins>Home Lab Design</b></ins>: Establishing sandboxed environments for cybersecurity research. | <a href="https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-">Home Lab</a>|
+
+## Tools 
+
+| Tools |                                        |          
+|------------------|----------------------------|
+| Network Security Tools| <img src="https://img.shields.io/badge/-TCPdump-0052A3?&style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white"/> <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white"/> <img src="https://img.shields.io/badge/-NAT-0E7A0D?&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/-Internal%20Network-1D9BF0?&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/-Host--Only%20Network-F39C12?&style=for-the-badge&logoColor=white"/> |
+| Endpoint Security Tools | <img src="https://img.shields.io/badge/-Microsoft%20Defender-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/-Sysmon-4B0082?&style=for-the-badge&logo=WindowsTerminal&logoColor=white"/> <img src="https://img.shields.io/badge/-Get--WinEvent-0078D7?&style=for-the-badge&logo=PowerShell&logoColor=white"/> <img src="https://img.shields.io/badge/-Event%20Viewer-005A9E?&style=for-the-badge&logo=Windows&logoColor=white"/>|
+| Siem Tool        | <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white"/>|
+| Scripting and Automation Tools      |<img src="https://img.shields.io/badge/-PowerShell-2E2E2E?&style=for-the-badge&logo=PowerShell&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white"/> |
+| Offensive Security Tools  | <img src="https://img.shields.io/badge/-Metasploit-004C37?&style=for-the-badge&logo=Metasploit&logoColor=white"/>|
+| Penetration Testing Operating Systems | <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali&logoColor=white"/>|
+| System Administration and Configuration Tools | <img src="https://img.shields.io/badge/-Group%20Policy%20Management-5A5A5A?&style=for-the-badge&logo=Windows&logoColor=white"/>|
+| Directory Services and Access Control Tools | <img src="https://img.shields.io/badge/-Active%20Directory%20Users%20and%20Computers-0078D4?&style=for-the-badge&logo=Windows&logoColor=white"/>|
+
+
+
+
 
 ## Tools
 - <b><ins>Network Security Tools:</b></ins>
@@ -101,6 +117,7 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 
 - <b><ins>Directory Services and Access Control Tools</b></ins>
   - <b>Active Directory Users and Computers</b>: A tool to manage user accounts, groups, and permissions within an Active Directory environment, essential for controlling access to network resources and enforcing security policies.
+
 
 
 <h2> 🤳 Connect with me:</h2>
