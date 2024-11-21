@@ -72,7 +72,6 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 | Scripting and Automation Tools      |<img src="https://img.shields.io/badge/-PowerShell-2E2E2E?&style=for-the-badge&logo=PowerShell&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white"/> |
 | Offensive Security Tools  | <img src="https://img.shields.io/badge/-Metasploit-004C37?&style=for-the-badge&logo=Metasploit&logoColor=white"/>|
 | Penetration Testing Operating Systems | <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali&logoColor=white"/>|
-| System Administration and Configuration Tools | <img src="https://img.shields.io/badge/-Group%20Policy%20Management-5A5A5A?&style=for-the-badge&logo=Windows&logoColor=white"/>|
 | Directory Services and Access Control Tools | <img src="https://img.shields.io/badge/-Active%20Directory%20Users%20and%20Computers-0078D4?&style=for-the-badge&logo=Windows&logoColor=white"/>|
 
 
