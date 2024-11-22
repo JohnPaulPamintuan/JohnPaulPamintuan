@@ -84,7 +84,7 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 - 🔭 I’m currently working: I’m currently advancing my cybersecurity skills through hands-on projects and real-world applications. I focus on network analysis, Windows event monitoring, and security automation.
 - 🌱 I’m currently learning: Deepening my Python skills for automating security tasks and developing custom tools.
 - ⚡ Fun fact: I’m passionate about solving complex cybersecurity challenges and constantly learning new techniques to stay ahead of evolving threats.
-- 📪 how to reach me:
+- 📪 How to reach me:
   - Johnpauljpamintuan@gmail.com
     
 
