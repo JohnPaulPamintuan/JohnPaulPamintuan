@@ -27,7 +27,7 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 - <b>Siem tool for Cybersecurity:</b>
   - [Splunk: Utilized data analysis software and visualization tools to interpret security events](https://github.com/JohnPaulPamintuan/SIEM-Tool---SPLUNK)
 - <b>Python:</b>
-  - [Praciting DS & Algos in Python](1)
+  - [Baisc Automation Project](1)
 - <b>Breach Response Case Studies:</b>
   - [Case Study: Spear Phising Attack](https://coursera-assessments.s3.amazonaws.com/assessments/1720428014790/2123721c-6fdb-4ede-a0c0-1bec21cd781d/Pros%20and%20cons%20-%20Sheet1.pdf)
  
