@@ -39,10 +39,12 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 - <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 - <img src="https://img.shields.io/badge/-IBM%27s%20Security%20Analyst%20Fundamentals-FFB300?&style=for-the-badge&logo=IBM&logoColor=white" />
 - <img src="https://img.shields.io/badge/-Palo%20Alto%20Networks-EB5424?&style=for-the-badge&logo=PaloAltoNetworks&logoColor=white" />
-- <img src="https://img.shields.io/badge/-NVIDIA%3A%20Introduction%20to%20Networking-76B900?&style=for-the-badge&logo=NVIDIA&logoColor=white" />
 - <img src="https://img.shields.io/badge/-ISC2%3A%20Certified%20in%20Cybersecurity-9B59B6?&style=for-the-badge&logo=ISC2&logoColor=white" />
-- <img src="https://img.shields.io/badge/-Pact%3A%20Web%20Design%20using%20ChatGPT-00ADEF?&style=for-the-badge&logo=OpenAI&logoColor=white" />
+- <img src="https://img.shields.io/badge/-Cisco%3A%20SOC%20Certification-005073?&style=for-the-badge&logo=Cisco&logoColor=white" />
+- <img src="https://img.shields.io/badge/-Splunk%3A%20Search%20Expert%20Specialization-0096D6?style=for-the-badge&logo=Splunk&logoColor=white" />
 - <img src="https://img.shields.io/badge/-InfoSec%20Python%20Certification-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+
 
 <h1> 🛠️ Skills and Tools:</h1>
 
