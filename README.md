@@ -25,7 +25,7 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
   - [Cybersecurity Home Lab: Building, Attacking, and Defending Virtual Environments](https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-)
 
 - <b>Siem tool for Cybersecurity:</b>
-  - [Splunk: Utilized data analysis software and visualization tools to interpret security events](https://github.com/JohnPaulPamintuan/SIEM-Tool---SPLUNK)
+  - [Splunk SIEM in Action: A Guide to Data Ingestion, Analysis, and Real-Time Security Monitoring](https://github.com/JohnPaulPamintuan/SIEM-Tool---SPLUNK)
 - <b>Python:</b>
   - [Baisc Automation Project](1)
 - <b>Breach Response Case Studies:</b>
