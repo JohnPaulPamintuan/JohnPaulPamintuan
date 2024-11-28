@@ -24,6 +24,8 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 - <b>Creating a Cybersecurity Home Lab:</b>
   - [Cybersecurity Home Lab: Building, Attacking, and Defending Virtual Environments](https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-)
 
+- <b>Vulnerability Management:</b>
+  - [Scanning Tools: Nessus, OpenVAS](https://github.com/JohnPaulPamintuan/Scanning-Tools-Nessus-OpenVAS)
 - <b>Siem tool for Cybersecurity:</b>
   - [Splunk SIEM in Action: A Guide to Data Ingestion, Analysis, and Real-Time Security Monitoring](https://github.com/JohnPaulPamintuan/SIEM-Tool---SPLUNK)
 - <b>Python:</b>
