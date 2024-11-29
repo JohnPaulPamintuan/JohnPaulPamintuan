@@ -81,7 +81,7 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 <h2> 🤳 Connect with me:</h2>
 
  [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://linkedin.com/in/johnpaulpamintuan)
-[<img src="https://img.shields.io/badge/-Website-000000?&style=for-the-badge&logo=webflow&logoColor=white">](https://www.google.com/)
+[<img src="https://img.shields.io/badge/-Website-000000?&style=for-the-badge&logo=webflow&logoColor=white">](https://johnpaulpamintuan.netlify.app/)
 
 
 -------------------------------------------------
