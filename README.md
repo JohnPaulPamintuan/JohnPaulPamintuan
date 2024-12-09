@@ -21,8 +21,8 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 
 - <b>Creating a Cybersecurity Home Lab:</b>
   - [Cybersecurity Home Lab: Building, Attacking, and Defending Virtual Environments](https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-)
-- <b>Network Threat Detection</b>
- - [Suricata](https://github.com/JohnPaulPamintuan/Suricata)
+- <b>Network Security Through IDS/IPS</b>
+  - [Network Threat Detection with Suricata"](https://github.com/JohnPaulPamintuan/Suricata)
 - <b>Vulnerability Management:</b>
   - [Scanning Tools: Nessus, OpenVAS](https://github.com/JohnPaulPamintuan/Scanning-Tools-Nessus-OpenVAS)
 - <b>Siem tool for Cybersecurity:</b>
