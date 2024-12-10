@@ -73,7 +73,7 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 | Siem Tool        | <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white"/>|
 | Scripting and Automation Tools      |<img src="https://img.shields.io/badge/-PowerShell-2E2E2E?&style=for-the-badge&logo=PowerShell&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white"/> |
 | Offensive Security Tools  | <img src="https://img.shields.io/badge/-Metasploit-004C37?&style=for-the-badge&logo=Metasploit&logoColor=white"/>|
-| Vulnerability Scanning Tools  | <img src="https://img.shields.io/badge/-Nessus-008CBA?&style=for-the-badge&logo=tenable&logoColor=white"/> |
+| Vulnerability Scanning Tools  |<img src="https://img.shields.io/badge/-Tenable%20Nessus-008CBA?&style=for-the-badge&logo=tenable&logoColor=white"/>|
 | Penetration Testing Operating Systems | <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali&logoColor=white"/>|
 | Directory Services and Access Control Tools | <img src="https://img.shields.io/badge/-Active%20Directory%20Users%20and%20Computers-0078D4?&style=for-the-badge&logo=Windows&logoColor=white"/>|
 
