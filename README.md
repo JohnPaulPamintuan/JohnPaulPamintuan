@@ -18,11 +18,10 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
    - [Introduction to ETW (Event Tracing for Windows): Basics for Cybersecurity Detection](https://github.com/JohnPaulPamintuan/ETW/blob/main/README.md)
    - [Utilized Get-Win Event cmdlet to analyse Windows Event Logs](https://github.com/JohnPaulPamintuan/Get-WinEvent-/blob/main/README.md)
    - [Skills Assessment - Windows Event Logs & Finding Evil - HackTheBox](https://github.com/JohnPaulPamintuan/Skills-Assessment---Windows-Event-Logs-Finding-Evil---HackTheBox./blob/main/README.md)
-
 - <b>Creating a Cybersecurity Home Lab:</b>
   - [Cybersecurity Home Lab: Building, Attacking, and Defending Virtual Environments](https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-)
 - <b>Network Security Through IDS/IPS</b>
-  - [Network Threat Detection with Suricata"](https://github.com/JohnPaulPamintuan/Suricata)
+  - [Network Threat Detection with Suricata](https://github.com/JohnPaulPamintuan/Suricata)
 - <b>Vulnerability Management:</b>
   - [Scanning Tools: Nessus, OpenVAS](https://github.com/JohnPaulPamintuan/Scanning-Tools-Nessus-OpenVAS)
 - <b>Siem tool for Cybersecurity:</b>
