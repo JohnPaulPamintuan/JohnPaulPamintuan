@@ -23,8 +23,8 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 - <b>Threat Detection & Response</b>
   - [Splunk SIEM in Action: A Guide to Data Ingestion, Analysis, and Real-Time Security Monitoring](https://github.com/JohnPaulPamintuan/SIEM-Tool---SPLUNK)
   - [Network Threat Detection with Suricata](https://github.com/JohnPaulPamintuan/Suricata)
-- <b>Vulnerability Management:</b>
-  - [Scanning Tools: Nessus](https://github.com/JohnPaulPamintuan/Scanning-Tools-Nessus-OpenVAS)
+- <b>Vulnerability Assesment:</b>
+  - [Scanning Tools: Used Nessus to identify and analyze system vulnerabilities](https://github.com/JohnPaulPamintuan/Scanning-Tools-Nessus-OpenVAS)
 - <b>Python:</b>
   - [Basic Automation Project](https://github.com/JohnPaulPamintuan/python)
 - <b>Breach Response Case Studies:</b>
@@ -59,6 +59,7 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 | <b><ins>Malware Analysis</b></ins>: Safely executing and analyzing malware in isolated virtual machines. | <a href="https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-">Home Lab</a>|
 | <b><ins>Network Security</b></ins>: Implementing secure VM network configurations (NAT, Internal Network). | <a href="https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-">Home Lab</a>|
 | <b><ins>Offensive Security</b></ins>: Conducting reconnaissance with Nmap and crafting payloads using msfvenom. | <a href="https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-">Home Lab</a>|
+| <b><ins>Vulnerability Assesment</b></ins>: Conducted vulnerability scans using Nessus to identify system weaknesses, analyze security risks, and provide actionable remediation recommendations. | <a href="https://github.com/JohnPaulPamintuan/Scanning-Tools-Nessus">Vulnerability Lab</a> |
 | <b><ins>Incident Monitoring</b></ins>: Configuring Sysmon for detailed telemetry and analyzing logs with Splunk. | <a href="https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-">Home Lab</a>|
 | <b><ins>Pyhton Skills</b></ins>: | <a href="https://google.com"> Automation Lab</a>|
 | <b><ins>Home Lab Design</b></ins>: Establishing sandboxed environments for cybersecurity research. | <a href="https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-">Home Lab</a>|
@@ -67,12 +68,12 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 
 | Tools |                                        |          
 |------------------|----------------------------|
-| Network Security Tools| <img src="https://img.shields.io/badge/-TCPdump-0052A3?&style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white"/> <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white"/> <img src="https://img.shields.io/badge/-NAT-0E7A0D?&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/-Internal%20Network-1D9BF0?&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/-Host--Only%20Network-F39C12?&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/-Suricata-0052A3?&style=for-the-badge&logo=suricata&logoColor=white"/>|
+| Network Security Tools| <img src="https://img.shields.io/badge/-TCPdump-0052A3?&style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white"/> <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white"/> <img src="https://img.shields.io/badge/-NAT-0E7A0D?&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/-Internal%20Network-1D9BF0?&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/-Host--Only%20Network-F39C12?&style=for-the-badge&logoColor=white"/> |
 | Endpoint Security Tools | <img src="https://img.shields.io/badge/-Microsoft%20Defender-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/-Sysmon-4B0082?&style=for-the-badge&logo=WindowsTerminal&logoColor=white"/> <img src="https://img.shields.io/badge/-Get--WinEvent-0078D7?&style=for-the-badge&logo=PowerShell&logoColor=white"/> <img src="https://img.shields.io/badge/-Event%20Viewer-005A9E?&style=for-the-badge&logo=Windows&logoColor=white"/>|
-| Siem Tool        | <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white"/>|
+| Threat Detection Tools        | <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white"/> <img src="https://img.shields.io/badge/-Suricata-0052A3?&style=for-the-badge&logo=suricata&logoColor=white"/>|
 | Scripting and Automation Tools      |<img src="https://img.shields.io/badge/-PowerShell-2E2E2E?&style=for-the-badge&logo=PowerShell&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white"/> |
 | Offensive Security Tools  | <img src="https://img.shields.io/badge/-Metasploit-004C37?&style=for-the-badge&logo=Metasploit&logoColor=white"/>|
-| Vulnerability Scanning Tools  |<img src="https://img.shields.io/badge/-Tenable%20Nessus-008CBA?&style=for-the-badge&logo=tenable&logoColor=white"/>|
+| Vulnerability Scanning Tool  |<img src="https://img.shields.io/badge/-Tenable%20Nessus-008CBA?&style=for-the-badge&logo=tenable&logoColor=white"/>|
 | Penetration Testing Operating Systems | <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali&logoColor=white"/>|
 | Directory Services and Access Control Tools | <img src="https://img.shields.io/badge/-Active%20Directory%20Users%20and%20Computers-0078D4?&style=for-the-badge&logo=Windows&logoColor=white"/>|
 
