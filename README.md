@@ -5,7 +5,7 @@ A cybersecurity enthusiast based in Pardubice, Czech Republic. With a background
 - <b>Microsoft Windows Defender & Windows Firewall:</b>
   - [Microsoft Windows Defender Antivirus and Firewall](https://github.com/JohnSpace2/Microsoft-Windows-Defender-Windows-Firewall/blob/main/README.md)
 - <b>Linux System Administration:</b>
-  - [The commands commonly used for navigating and filtering the File System](https://github.com/JohnSpace2/Navigate-and-manage-the-file-system-using-Linux-commands-via-the-Bash-shell/blob/main/README.md) 
+  - [The commands commonly used for navigating and filtering the File System](https://github.com/JohnSpace2/Navigate-and-manage-the-file-system-using-Linux-commands-via-the-Bash-shell/blob/main/README.md)
 - <b>Network traffic Analysis and using TCPdump and Wireshark:</b>
   - [Utilized TCPdump to capture and analyse TCP traffics](https://github.com/JohnPaulPamintuan/TCPdump/blob/main/README.md)
   - [Utilized Wireshark to analyse HTTP/S and RDP traffic](https://github.com/JohnPaulPamintuan/Wireshark/blob/main/README.md)
