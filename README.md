@@ -20,12 +20,11 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
    - [Skills Assessment - Windows Event Logs & Finding Evil - HackTheBox](https://github.com/JohnPaulPamintuan/Skills-Assessment---Windows-Event-Logs-Finding-Evil---HackTheBox./blob/main/README.md)
 - <b>Creating a Cybersecurity Home Lab:</b>
   - [Cybersecurity Home Lab: Building, Attacking, and Defending Virtual Environments](https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-)
-- <b>Network Security Through IDS/IPS</b>
+- <b>Threat Detection & Response</b>
+  - [Splunk SIEM in Action: A Guide to Data Ingestion, Analysis, and Real-Time Security Monitoring](https://github.com/JohnPaulPamintuan/SIEM-Tool---SPLUNK)
   - [Network Threat Detection with Suricata](https://github.com/JohnPaulPamintuan/Suricata)
 - <b>Vulnerability Management:</b>
   - [Scanning Tools: Nessus](https://github.com/JohnPaulPamintuan/Scanning-Tools-Nessus-OpenVAS)
-- <b>Siem tool for Cybersecurity:</b>
-  - [Splunk SIEM in Action: A Guide to Data Ingestion, Analysis, and Real-Time Security Monitoring](https://github.com/JohnPaulPamintuan/SIEM-Tool---SPLUNK)
 - <b>Python:</b>
   - [Basic Automation Project](https://github.com/JohnPaulPamintuan/python)
 - <b>Breach Response Case Studies:</b>
