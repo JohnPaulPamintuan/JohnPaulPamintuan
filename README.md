@@ -1,4 +1,4 @@
-<h1>Hello, I'm John Paul J. Pamintuan!</h1>
+<h1>Hello, I'm John Paul J. Pamintuan</h1>
 A cybersecurity enthusiast based in Pardubice, Czech Republic. With a background in luxury hospitality, I honed my interpersonal skills, which I now leverage in my transition to cybersecurity, where I am driven to solve complex technical challenges. I specialize in both offensive and defensive security, continually sharpening my expertise through platforms like HackTheBox, TryHackMe, and Coursera. I’m also building my proficiency in Python for automation to enhance my technical capabilities. My ultimate goal is to evolve into a proficient Penetration Tester, identifying vulnerabilities and securing systems. Passionate about creating safer digital environments, I aim to contribute to a more secure and trustworthy online world.
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
