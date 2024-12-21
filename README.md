@@ -68,7 +68,7 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 | <b><ins>Offensive Security</b></ins>: Conducting reconnaissance with Nmap and crafting payloads using msfvenom. | <a href="https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-">Home Lab</a>|
 | <b><ins>Vulnerability Assesment</b></ins>: Conducted vulnerability scans using Nessus to identify system weaknesses, analyze security risks, and provide actionable remediation recommendations. | <a href="https://github.com/JohnPaulPamintuan/Scanning-Tools-Nessus">Vulnerability Lab</a> |
 | <b><ins>Incident Monitoring</b></ins>: Configuring Sysmon for detailed telemetry and analyzing logs with Splunk. | <a href="https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-">Home Lab</a>|
-| <b><ins>Pyhton Skills</b></ins>: | <a href="https://google.com"> Automation Lab</a>|
+| <b><ins>Pyhton Skills</b></ins>: Python scripting specifically tailored for DevOps, emphasizing the execution of Python scripts and the fundamental operations such as reading files and utilizing common methods.| <a href="https://google.com"> Automation Lab</a>|
 | <b><ins>Home Lab Design</b></ins>: Establishing sandboxed environments for cybersecurity research. | <a href="https://github.com/JohnPaulPamintuan/Creating-a-basic-home-lab-">Home Lab</a>|
 
 ## Tools 
