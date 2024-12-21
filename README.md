@@ -32,6 +32,8 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
   - [Scanning Tools: Used Nessus to identify and analyze system vulnerabilities](https://github.com/JohnPaulPamintuan/Scanning-Tools-Nessus-OpenVAS)
 - <b>Python:</b>
   - [Basic Automation Project](https://github.com/JohnPaulPamintuan/python)
+- <b> Jira </b>
+  - [Get Started With Jira](1)
 - <b>Breach Response Case Studies:</b>
   - [Case Study: Spear Phising Attack](https://coursera-assessments.s3.amazonaws.com/assessments/1720428014790/2123721c-6fdb-4ede-a0c0-1bec21cd781d/Pros%20and%20cons%20-%20Sheet1.pdf)
  
