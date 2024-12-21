@@ -30,7 +30,7 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
   - [Network Threat Detection with Suricata](https://github.com/JohnPaulPamintuan/Suricata)
 - <b>Vulnerability Assesment:</b>
   - [Scanning Tools: Used Nessus to identify and analyze system vulnerabilities](https://github.com/JohnPaulPamintuan/Scanning-Tools-Nessus-OpenVAS)
-- <b>Python:</b>
+- <b>Python For Cybersecurity:</b>
   - [Python Scripting for DevOps](https://github.com/JohnPaulPamintuan/python)
 - <b> Jira </b>
   - [Get Started With Jira](1)
