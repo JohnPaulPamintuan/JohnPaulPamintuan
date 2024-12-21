@@ -31,7 +31,7 @@ including identifying DLL hijacking](https://github.com/JohnPaulPamintuan/Window
 - <b>Vulnerability Assesment:</b>
   - [Scanning Tools: Used Nessus to identify and analyze system vulnerabilities](https://github.com/JohnPaulPamintuan/Scanning-Tools-Nessus-OpenVAS)
 - <b>Python:</b>
-  - [Basic Automation Project](https://github.com/JohnPaulPamintuan/python)
+  - [Python Scripting for DevOps](https://github.com/JohnPaulPamintuan/python)
 - <b> Jira </b>
   - [Get Started With Jira](1)
 - <b>Breach Response Case Studies:</b>
